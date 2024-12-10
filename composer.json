@@ -1,0 +1,21 @@
+{
+    "name": "ak/openapi",
+    "description": "a openapi sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "罗迪",
+            "email": "luodi@lingxing.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-openssl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ak\\OpenAPI\\": "src/"
+        }
+    }
+}
