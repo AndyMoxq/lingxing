@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ak\\OpenAPI\\": "src/"
+            "Lingxing\\OpenAPI\\": "src/"
         }
     }
 }
