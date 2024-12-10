@@ -1,5 +1,5 @@
 {
-    "name": "ak/openapi",
+    "name": "lingxing/openapi",
     "description": "a openapi sdk",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Lingxing\\OpenAPI\\": "src/"
+            "Ak\\OpenAPI\\": "src/"
         }
     }
 }
